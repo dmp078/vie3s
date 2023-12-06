@@ -40,7 +40,7 @@ const Header = () => {
           <h1 className='text-4xl text-[#F58E6A]'>VIETNAM</h1>
         </div>
 
-        <div className='gap-8 flex text-[#F58E6A] text-lg'>
+        <div className='gap-8 flex text-[#F58E6A] text-lg font-medium items-center'>
           <Link to={'/'}>Trang chủ</Link>
           <Link to={'/about'}>Giới thiệu</Link>
           <Link to={'/how-it-works'}>Cách hoạt động</Link>
